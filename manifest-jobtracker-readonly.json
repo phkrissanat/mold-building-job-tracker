@@ -1,0 +1,16 @@
+{
+  "name": "งานต้นแบบ & แม่พิมพ์ (ดูอย่างเดียว)",
+  "short_name": "Mold Job (RO)",
+  "description": "ดูสถานะงานสร้างต้นแบบและงานสร้างแม่พิมพ์แบบเรียลไทม์ — ไม่ต้องเข้าสู่ระบบ",
+  "start_url": "./readonly-jobtracker.html",
+  "scope": "./readonly-jobtracker.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020c18",
+  "theme_color": "#020c18",
+  "icons": [
+    { "src": "icons/icon-jobtracker-ro-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-jobtracker-ro-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-jobtracker-ro-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ระบบติดตามงานต้นแบบ & แม่พิมพ์",
+  "short_name": "Mold Job Tracker",
+  "description": "ติดตามสถานะงานสร้างต้นแบบและงานสร้างแม่พิมพ์ — ขั้นตอน, ผู้รับผิดชอบ, กำหนดเสร็จ",
+  "start_url": "./mold-job-tracker.html",
+  "scope": "./mold-job-tracker.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#020c18",
+  "theme_color": "#020c18",
+  "icons": [
+    { "src": "icons/icon-jobtracker-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-jobtracker-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-jobtracker-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
